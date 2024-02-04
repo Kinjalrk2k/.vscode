@@ -1,0 +1,10 @@
+{
+  // requires: https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
+  "latex-workshop.latex.outDir": "out",
+  "editor.wordWrap": "on",
+  "[tex]": {
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.formatOnSave": false
+  }
+}
